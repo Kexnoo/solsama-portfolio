@@ -1,4 +1,6 @@
-# solsama-portfolio
+# solsama-portfolio (WIP)
+
+DISCLAIMER: I AM STILL EDITING AND APPLYING FILES TO THIS REPO, THIS IS NOT ALL THE FILES
 
 Public portfolio version of Sol, my AI Discord companion project (voice, memory, and Roblox dev agent systems).
 
