@@ -18,9 +18,6 @@ What's intentionally excluded:
 - Audio samples and other binary assets
 - Some internal modules not relevant to a portfolio review
 
-## Notes on security
-
-Any API keys or tokens referenced in this codebase are loaded from environment variables (e.g. `os.environ.get(...)`) at runtime and are never committed to source control. If you spot anything that looks like a real credential, please let me know — it would be a mistake, not an intentional disclosure.
 
 ## Tech stack
 
